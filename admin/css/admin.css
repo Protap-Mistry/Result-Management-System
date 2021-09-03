@@ -1,0 +1,28 @@
+body
+{
+	color: black !important;
+}
+.bg-white
+{
+	background-color: #343a40 !important;
+}
+#content
+{
+	background-color: gray;
+	color: white;
+}
+.text-gray-600
+{
+	color: #fff !important;
+}
+.text-gray-800{
+	color: black !important;
+}
+.card
+{
+	background-color: #3c4b64;
+}
+.table
+{
+	color: #fff;
+}
